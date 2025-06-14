@@ -1,0 +1,4 @@
+name: Stardew Fishing
+version: '1.0-SNAPSHOT'
+main: me.sxigames.stardewFishing.StardewFishing
+api-version: '1.21'
